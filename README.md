@@ -23,13 +23,13 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por criar interfaces intuitiva
 ---
 
 ## 🌟 **Principais Projetos**
-### 🔗 [Vivo - Python AI Backend Developer](https://github.com/Gady359/Vivo---Python-AI-Backend-Developer)  
+### 🔗 [Vivo - Python AI Backend Developer](https://github.com/Gady359/Vivo---Python-AI-Backend-Developer)
 Projeto de aprendizado focado em FastAPI e desenvolvimento backend utilizando Python.  
 
-### 🔗 [Sistema de Cadastro e Autenticação com Firebase](https://github.com/Gady359/Projeto-Cadastro-Autenticacao-Firebase)  
-Aplicação que implementa funcionalidades de autenticação de usuários com Firebase e envio de e-mails via SMTP.
+### 🔗 [DIO - Python Data Analytics](https://github.com/Gady359/DIO--Python-Data-Analytics)  
+Exploração de análise de dados com Python, utilizando bibliotecas como **Pandas**, **NumPy** e **Matplotlib** para insights baseados em dados.
 
-### 🔗 [Portfólio Frontend Responsivo](https://github.com/Gady359/Portifolio-Frontend-Responsivo)  
+### 🔗 [Curriculo-Responsivo](https://github.com/Gady359/Curriculo-Responsivo)
 Projeto pessoal para destacar habilidades em **HTML**, **CSS** e **JavaScript**, criando interfaces modernas e responsivas.  
 
 ---
@@ -43,8 +43,8 @@ Projeto pessoal para destacar habilidades em **HTML**, **CSS** e **JavaScript**,
 
 ## 💬 **Vamos conversar?**
 Se você quer trocar ideias sobre tecnologia ou colaborar em algum projeto, sinta-se à vontade para entrar em contato:  
-- ✉️ **Email**: [gabriel.peters@gmail.com](mailto:gabriel.peters@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/gabrielpeters](https://linkedin.com/in/gabrielpeters)  
+- ✉️ **Email**: [gabrielgustavo.peters@yahoo.com.br](mailto:gabrielgustavo.peters@yahoo.com.br)  
+- 🔗 **LinkedIn**: [[linkedin.com/in/gabrielpeters](https://www.linkedin.com/in/gabriel-peters-b8ab79252/)]
 
 ---
 
