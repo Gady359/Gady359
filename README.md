@@ -23,17 +23,18 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por criar interfaces intuitiva
 ---
 
 ## 🌟 **Principais Projetos**
-### 🔗 [Vivo - Python AI Backend Developer](https://github.com/Gady359/Vivo---Python-AI-Backend-Developer)
-Projeto de aprendizado focado em FastAPI e desenvolvimento backend utilizando Python.  
-
-### 🔗 [DIO - Python Data Analytics](https://github.com/Gady359/DIO--Python-Data-Analytics)  
-Exploração de análise de dados com Python, utilizando bibliotecas como **Pandas**, **NumPy** e **Matplotlib** para insights baseados em dados.
 
 ### 🔗 [Curriculo-Responsivo](https://github.com/Gady359/Curriculo-Responsivo)
 Projeto pessoal para destacar habilidades em **HTML**, **CSS** e **JavaScript**, criando interfaces modernas e responsivas.  
 
 ### 🔗 [Dashboards-Inteligentes-para-Gestao-Publica](https://github.com/Gady359/Dashboards-Inteligentes-para-Gestao-Publica)
 Este projeto apresenta um dashboard interativo desenvolvido com Power BI, como parte do projeto de extensão "Dashboards Inteligentes para Gestão Pública", realizado na Secretaria da Fazenda do Paraná.
+
+### 🔗 [Vivo - Python AI Backend Developer](https://github.com/Gady359/Vivo---Python-AI-Backend-Developer)
+Projeto de aprendizado focado em FastAPI e desenvolvimento backend utilizando Python.  
+
+### 🔗 [DIO - Python Data Analytics](https://github.com/Gady359/DIO--Python-Data-Analytics)  
+Exploração de análise de dados com Python, utilizando bibliotecas como **Pandas**, **NumPy** e **Matplotlib** para insights baseados em dados.
 
 ---
 
