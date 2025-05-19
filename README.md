@@ -32,6 +32,9 @@ Exploração de análise de dados com Python, utilizando bibliotecas como **Pand
 ### 🔗 [Curriculo-Responsivo](https://github.com/Gady359/Curriculo-Responsivo)
 Projeto pessoal para destacar habilidades em **HTML**, **CSS** e **JavaScript**, criando interfaces modernas e responsivas.  
 
+### 🔗 [Dashboards-Inteligentes-para-Gestao-Publica](https://github.com/Gady359/Dashboards-Inteligentes-para-Gestao-Publica)
+Este projeto apresenta um dashboard interativo desenvolvido com Power BI, como parte do projeto de extensão "Dashboards Inteligentes para Gestão Pública", realizado na Secretaria da Fazenda do Paraná.
+
 ---
 
 ## 📈 **O que estou aprendendo atualmente?**
